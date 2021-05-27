@@ -1,6 +1,6 @@
 # COVID-State-Age-Sex-Independence
-STA104 Project 2
-Winter 2021
+STA104 Project 2,
+Winter 2021,
 Professor Amy Kim, Kevin Xu, Radhika Kulkarni
 
 A term project for my Nonparametric Statistics class in which I tested the largest US states' response-effectiveness against COVID-19 using the nonparametric Kruskal-Wallis test.
