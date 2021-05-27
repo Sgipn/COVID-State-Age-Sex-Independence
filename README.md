@@ -1,8 +1,7 @@
 # COVID-State-Age-Sex-Independence
 STA104 Project 2
 Winter 2021
-Professor Amy Kim
-Kevin Xu, Radhika Kulkarni
+Professor Amy Kim, Kevin Xu, Radhika Kulkarni
 
 A term project for my Nonparametric Statistics class in which I tested the largest US states' response-effectiveness against COVID-19 using the nonparametric Kruskal-Wallis test.
 I also conducted nonparametric permutation tests with R=300 random permutations to determine if Age and Sex are independent variables regarding COVID-19 related deaths. We find that Age and Sex are dependent variables with regard to COVID-19 related deaths. Using Tukey's HSD inspired cutoff values at a family confidence level of 95%, we find that males tended to die more than females for ages 18-84 years old and females tended to die more often than males for ages 85+ years old.
