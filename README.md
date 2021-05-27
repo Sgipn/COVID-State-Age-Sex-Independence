@@ -2,9 +2,10 @@
 A term project for my Nonparametric Statistics class in which I tested the largest US states' response-effectiveness against COVID-19 using the nonparametric Kruskal-Wallis test.
 I also conducted nonparametric permutation tests with R=300 random permutations to determine if Age and Sex are independent variables regarding COVID-19 related deaths. We find that Age and Sex are dependent variables with regard to COVID-19 related deaths. Using Tukey's HSD inspired cutoff values at a family confidence level of 95%, we find that males tended to die more than females for ages 18-84 years old and females tended to die more often than males for ages 85+ years old.
 
-STA104 
+STA104 Project 2
 Winter 2021
 Professor Amy Kim
+Kevin Xu, Radhika Kulkarni
 
 # Nonparametric K-sample Test
 Analyzing COVID-19 deaths by State to see if States (their infrastructures and response to COVID-19, resources, density, etc) have an effect on the number of deaths from COVID-19 using nonparametric Krustkal Wallis Test. States with the largest populations were chosen because their COVID-19 policies affect a large number of people and they would be forced into a similar situation in terms of COVID 19 deaths and thus are comparable. These states are California, Texas, New York, and Florida.
